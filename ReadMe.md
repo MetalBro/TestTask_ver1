@@ -2,5 +2,5 @@
 [![Build Status](https://travis-ci.org/JavaWebinar/topjava.svg?branch=master)](https://travis-ci.org/JavaWebinar/topjava)
 [![VersionEye](https://www.versioneye.com/user/projects/5a14435c0fb24f2a6d408cde/badge.svg)](https://www.versioneye.com/user/projects/5a14435c0fb24f2a6d408cde)
 
-Скрипт на заполнение БД в файле generateBookTable.sql
+Скрипт на заполнение БД в файле generateBookTable.sql  
 Деплоить проект можно сразу из Intellij Idea
