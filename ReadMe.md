@@ -3,7 +3,7 @@
 
 Project is used MYSQL database
 
-Settings:  
+**Settings:**  
 Database name = test  
 Script to populate DB is located in a file generateBookTable.sql  
 You can immediately deploy a project from Intellij Idea
