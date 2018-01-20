@@ -1,4 +1,4 @@
-package ru.mytesttask.model;
+package ru.mytesttask.service;
 
 /**
  * Created by Андрей on 04.10.2017.

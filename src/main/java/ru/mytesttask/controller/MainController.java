@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 import ru.mytesttask.model.BookEntity;
-import ru.mytesttask.model.BookService;
-import ru.mytesttask.model.PaginationService;
+import ru.mytesttask.service.BookService;
+import ru.mytesttask.service.PaginationService;
 
 import java.util.List;
 

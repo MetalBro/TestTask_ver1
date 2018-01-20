@@ -1,7 +1,8 @@
-package ru.mytesttask.model;
+package ru.mytesttask.service;
 
 import org.hibernate.*;
 import org.hibernate.cfg.Configuration;
+import ru.mytesttask.model.BookEntity;
 
 import java.util.List;
 

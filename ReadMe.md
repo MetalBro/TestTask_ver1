@@ -1,2 +1,9 @@
-Скрипт на заполнение БД в файле generateBookTable.sql  
-Деплоить проект можно сразу из Intellij Idea
+
+### Simple CRUD book-app
+
+Project is used MYSQL database
+
+Settings:  
+Database name = test  
+Script to populate DB is located in a file generateBookTable.sql  
+You can immediately deploy a project from Intellij Idea
