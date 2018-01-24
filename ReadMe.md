@@ -1,7 +1,7 @@
 
 ### Simple CRUD book-app
 
-Project is used MYSQL database
+Project is used MySQL database
 
 **Settings:**  
 Database name = test  
